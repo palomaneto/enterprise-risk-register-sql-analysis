@@ -1,6 +1,6 @@
 /*
 =========================================================
-Advanced-Level (ongoing training w/ GeeksforGeeks & Copilot)
+Advanced-Level (ongoing training w/ GeeksforGeeks)
 
 Enterprise Risk Register SQL Analysis
 File: 07_risk_scoring_analysis.sql
