@@ -37,7 +37,9 @@ The project consists of five related tables:
 - 🛡 Controls
 - 📋 Risk Reviews
 
-*(Insert ERD image here once created.)*
+The database was designed to model a realistic enterprise risk register with clearly defined ownership, controls and review processes.
+
+![Enterprise Risk ERD](images/enterprise_risk_erd.png.png)
 
 ---
 
@@ -73,6 +75,30 @@ The analysis addresses practical governance questions such as:
 - Which controls remain incomplete?
 - Which actions require escalation?
 - Which risks should appear on an executive risk dashboard?
+
+## 📊 Example SQL Analysis
+
+### Risk Scoring
+
+The project calculates a risk score using the likelihood × impact methodology to support prioritisation.
+
+![Risk Scoring](images/risk_scoring_analysis.png.png)
+
+---
+
+### Department Risk Exposure
+
+SQL aggregation was used to identify departments carrying the highest cumulative organisational risk.
+
+![Department Risk Analysis](images/department_risk_analysis.png.png)
+
+---
+
+### Risk Ownership Dashboard
+
+This report highlights risk ownership and accountability by identifying owners responsible for the greatest cumulative risk exposure.
+
+![Owner Risk Dashboard](images/owner_risk_dashboard.png)
 
 ---
 
