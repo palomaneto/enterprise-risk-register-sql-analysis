@@ -1,6 +1,6 @@
 /*
 =========================================================
-Advanced-Level (ongoing training w/ GeeksforGeeks and Copilot)
+Advanced-Level (ongoing training w/ GeeksforGeeks)
 
 Enterprise Risk Register SQL Analysis
 File: 09_controls_and_overdue_actions.sql
