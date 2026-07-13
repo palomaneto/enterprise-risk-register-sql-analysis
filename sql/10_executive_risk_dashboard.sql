@@ -1,6 +1,6 @@
 /*
 =========================================================
-Advanced-Level (ongoing training w/ GeeksforGeeks and Copilot)
+Advanced-Level (ongoing training w/ GeeksforGeeks)
 
 Enterprise Risk Register SQL Analysis
 File: 10_executive_risk_dashboard.sql
