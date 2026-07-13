@@ -76,7 +76,7 @@ The analysis addresses practical governance questions such as:
 - Which actions require escalation?
 - Which risks should appear on an executive risk dashboard?
 
-## 📊 Example SQL Analysis
+## Example SQL Analysis
 
 ### Risk Scoring
 
