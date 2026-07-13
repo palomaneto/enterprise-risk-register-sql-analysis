@@ -39,7 +39,7 @@ The project consists of five related tables:
 
 The database was designed to model a realistic enterprise risk register with clearly defined ownership, controls and review processes.
 
-![Enterprise Risk ERD](images/enterprise_risk_erd.png.png)
+![Enterprise Risk ERD](images/ERD_RR.png)
 
 ---
 
